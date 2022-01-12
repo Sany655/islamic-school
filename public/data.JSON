@@ -1,0 +1,50 @@
+[
+    {
+        "id":"1",
+        "img":"./Images/shishuderIslamShikkha.jfif",
+        "name":"শিশুদের ইসলাম শিক্ষা",
+        "hadia":"2000"
+    },
+    {
+        "id":"2",
+        "img":"./Images/shobdeshobdeQuran-min.jpg",
+        "name":"শব্দে শব্দে আল কুরআন শিখি",
+        "hadia":"1500"
+    },
+    {
+        "id":"3",
+        "img":"./Images/quran-min.jpg",
+        "name":"আল কুরআন উচ্চারন ও অর্থসহ",
+        "hadia":"1000"
+    },
+    {
+        "id":"4",
+        "img":"./Images/islamShikkha-min.jpg",
+        "name":"ইসলামের বুনিয়াদি শিক্ষা",
+        "hadia":"500"
+    },
+    {
+        "id":"5",
+        "img":"./Images/hadis-min.jpg",
+        "name":"হাদিস ও উসুলে হাদিস",
+        "hadia":"2500"
+    },
+    {
+        "id":"6",
+        "img":"./Images/akida-min.jpg",
+        "name":"আকাইদ বা বিশ্বাস",
+        "hadia":"500"
+    },
+    {
+        "id":"7",
+        "img":"./Images/fiqh.jfif",
+        "name":"ইসলামী-আইন-ও-ফিকাহ-শাস্ত্র",
+        "hadia":"2800"
+    },
+    {
+        "id":"8",
+        "img":"./Images/akhlaq-min.jpg",
+        "name":"আখলাক বা চরিত্র",
+        "hadia":"2800"
+    }
+]
